@@ -1,0 +1,332 @@
+{
+  "restaurant_name": "Rasa",
+  "locations": [
+    "Washington DC",
+    "Maryland",
+    "Virginia"
+  ],
+  "menu": [
+    {
+      "category": "CHEF CURATED BOWLS",
+      "items": [
+        {
+          "name": "Tikka Chance On Me Bowl",
+          "description": "chicken tikka | tomato garlic sauce | basmati rice | sauteed spinach | pickled radish | kachumber | pickled onions | toasted cumin yogurt | mint cilantro chutney[gf]",
+          "price": "Not Available",
+          "tags": [
+            "gluten free"
+          ],
+          "options": []
+        },
+        {
+          "name": "lamb kebab Bowl",
+          "description": "lamb kebab | peanut sesame sauce | basmati rice | charred eggplant | cucumber cubes | pickled onions | mint cilantro | mango coconut yogurt[gf][nuts]",
+          "price": "Not Available",
+          "tags": [
+            "gluten free",
+            "contains nuts"
+          ],
+          "options": []
+        },
+        {
+          "name": "Spicy Chili Chicken Bowl",
+          "description": "spicy chili chicken | coconut ginger sauce | basmati rice | spiced chickpeas | kachumber salad | mango salsa | cumin yogurt[gf]",
+          "price": "Not Available",
+          "tags": [
+            "gluten free"
+          ],
+          "options": []
+        },
+        {
+          "name": "coconut curry shrimp bowl",
+          "description": "turmeric ginger shrimp | tamarind chili sauce | Indian rice noodles | spiced chickpeas | mango salsa | coconut powder | tamarind ginger chutney | mango coconut yogurt[gf][spicy]",
+          "price": "Not Available",
+          "tags": [
+            "gluten free"
+          ],
+          "options": []
+        },
+        {
+          "name": "Harvest Chicken Bowl",
+          "description": "sexy greens | lemon turmeric rice | chicken tikka | tomato garlic sauce | harvest veggies | cucumber | pickled onions | cumin yogurt | coriander chili | roasted lentils[gf]",
+          "price": "Not Available",
+          "tags": [
+            "gluten free"
+          ],
+          "options": []
+        },
+        {
+          "name": "Tandoori Paneer Bowl",
+          "description": "tandoori paneer | tomato garlic sauce | lemon turmeric rice | saut\u00e9ed spinach | cucumber cubes | cilantro | tamarind ginger | mint cilantro | chickpea noodles[gf] [veg]",
+          "price": "Not Available",
+          "tags": [
+            "gluten free",
+            "vegetarian"
+          ],
+          "options": []
+        },
+        {
+          "name": "Aloo Need Is Love Bowl",
+          "description": "sweet potato tikki | coconut ginger sauce | lemon turmeric rice | charred eggplant | pickled radish | tamarind ginger | masala beets | cucumber cubes | roasted lentils[gf] [v]",
+          "price": "Not Available",
+          "tags": [
+            "gluten free",
+            "vegan"
+          ],
+          "options": []
+        },
+        {
+          "name": "spiced cauliflower + quinoaNEW!",
+          "description": "masala quinoa | grilled cauliflower + potato | sauteed spinach | coconut ginger sauce | carrot slaw | pickled onions | coriander chili | roasted pumpkin seeds[gf] [v]",
+          "price": "Not Available",
+          "tags": [
+            "gluten free",
+            "vegan"
+          ],
+          "options": []
+        },
+        {
+          "name": "Chicken Tikka + Avocado Salad",
+          "description": "romaine | arugula | chicken tikka | harvest veggies | kachumber salad | masala beets | carrot slaw | avocado | kokum vinaigrette | toasted cumin yogurt | pumpkin seeds[gf]",
+          "price": "Not Available",
+          "tags": [
+            "gluten free"
+          ],
+          "options": []
+        }
+      ]
+    },
+    {
+      "category": "BUILD YOUR OWN BOWL",
+      "items": [
+        {
+          "name": "1. Build Your Base",
+          "description": "(choose up to two)",
+          "price": "Not Available",
+          "tags": [],
+          "options": [
+            "spinach",
+            "romaine lettuce",
+            "arugula",
+            "sexygreens",
+            "masala quinoa",
+            "basmati rice",
+            "south indian rice noodles",
+            "lemon turmeric rice",
+            "[all options gf + v]"
+          ]
+        },
+        {
+          "name": "2. Pick A Main",
+          "description": "(choose one)",
+          "price": "Not Available",
+          "tags": [],
+          "options": [
+            "chicken tikka[h]",
+            "spicy chili chicken[h]",
+            "lamb kebab[h]",
+            "turmeric ginger shrimp",
+            "tandoori paneer[veg]",
+            "sweet potato tikki[v]",
+            "harvest vegetables[v]",
+            "[all options gf]"
+          ]
+        },
+        {
+          "name": "3. Get Saucy",
+          "description": "(choose one)",
+          "price": "Not Available",
+          "tags": [],
+          "options": [
+            "tamarind chili[v]",
+            "tomato garlic",
+            "coconut ginger[v]",
+            "peanut sesame[v] [nuts]",
+            "[all options gf + veg]"
+          ]
+        },
+        {
+          "name": "4. Add Veggies",
+          "description": "(choose one)",
+          "price": "Not Available",
+          "tags": [],
+          "options": [
+            "charred eggplant",
+            "spiced chickpeas",
+            "saut\u00e9ed spinach",
+            "spiced cauliflower + potato",
+            "[all options gf + v]"
+          ]
+        },
+        {
+          "name": "5.Top It Off",
+          "description": "(unlimited)",
+          "price": "Not Available",
+          "tags": [],
+          "options": [
+            "cucumber cubes",
+            "cilantro",
+            "kachumber salad",
+            "masala beets",
+            "mango salsa",
+            "pickled onions",
+            "pickled radishes",
+            "indian street corn"
+          ]
+        },
+        {
+          "name": "6. Chutneys + Dressings",
+          "description": "(unlimited)",
+          "price": "Not Available",
+          "tags": [],
+          "options": [
+            "mint cilantro chutney",
+            "kokum vinaigrette[v]",
+            "house vinaigrette[v]",
+            "toasted cumin yogurt",
+            "mango coconut yogurt",
+            "tamarind ginger chutney[v]",
+            "coriander chili chutney[v]",
+            "[all options gf + veg]"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Wraps + Burritos",
+      "items": [
+        {
+          "name": "Chicken tikka wrap",
+          "description": "masala yogurt | lemon turmeric rice | chicken tikka | tomato garlic sauce | spiced chickpeas | romaine | pickled onions | shredded paneer | mint cilantro chutney | roti[halal]",
+          "price": "Not Available",
+          "tags": [
+            "halal"
+          ],
+          "options": []
+        },
+        {
+          "name": "BUTTER CHICKEN BURRITONEW!",
+          "description": "masala yogurt | lemon turmeric rice | butter chicken | spiced chickpeas | romaine | pickled onions | shredded paneer | mint cilantro chutney | roti | side of butter chicken sauce[halal]",
+          "price": "Not Available",
+          "tags": [
+            "halal"
+          ],
+          "options": []
+        },
+        {
+          "name": "spicy chili chicken wrap",
+          "description": "masala yogurt | lemon turmeric rice | spicy chili chicken | spiced chickpeas | romaine | kachumber salad | shredded paneer | mint cilantro chutney | roti[halal]",
+          "price": "Not Available",
+          "tags": [
+            "halal"
+          ],
+          "options": []
+        },
+        {
+          "name": "paneer wrap",
+          "description": "masala yogurt | lemon turmeric rice | tandoori paneer | tomato garlic sauce | spiced chickpeas | romaine | kachumber salad | tamarind ginger + mint cilantro chutney | roti[veg]",
+          "price": "Not Available",
+          "tags": [
+            "vegetarian"
+          ],
+          "options": []
+        }
+      ]
+    },
+    {
+      "category": "sides and sweets",
+      "items": [
+        {
+          "name": null,
+          "description": "",
+          "price": "Not Available",
+          "tags": [
+            "gluten free",
+            "contains nuts",
+            "vegan"
+          ],
+          "options": [
+            "Naan",
+            "Garlic Naan",
+            "Mini Samosas[2 per order][v upon request]",
+            "Samosa Chaat",
+            "Seasonal Raita[gf]",
+            "Chips + Chutney[gf]",
+            "Indian Yogurt[gf] [nuts]",
+            "Chai Chocolate Chip Cookies",
+            "Soft Serve[vegan] [gf]"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "DRINKS",
+      "items": [
+        {
+          "name": null,
+          "description": "",
+          "price": "Not Available",
+          "tags": [],
+          "options": [
+            "Homemade Juice",
+            "Mango Lassi",
+            "Fresh Young Coconut",
+            "Masala Chai (iced oat milk/hot)",
+            "Sparkling Water",
+            "Wild Kombucha",
+            "Spring Water",
+            "Yerba Mate"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "LIBATIONS (21+)",
+      "items": [
+        {
+          "name": "Cocktails",
+          "description": "",
+          "price": "Not Available",
+          "tags": [],
+          "options": [
+            "Masala Gin + Tonic",
+            "Cardamom Mint Julep",
+            "Spicy Mumbai Mule",
+            "Spiked Mango Lassi",
+            "Tamarind Margarita",
+            "Fresh Young Coconut + Rum"
+          ]
+        },
+        {
+          "name": "Beer",
+          "description": "",
+          "price": "Not Available",
+          "tags": [],
+          "options": [
+            "Kingfisher",
+            "Rupee Beer",
+            "Dogfish Head Namaste",
+            "DC Brau Pils",
+            "Bengali IPA"
+          ]
+        },
+        {
+          "name": "available in glass or bottleWine",
+          "description": "",
+          "price": "Not Available",
+          "tags": [],
+          "options": [
+            "Mont Gravet Rose",
+            "Borsao Garnacha",
+            "Indaba Sauvignon Blanc"
+          ]
+        }
+      ]
+    }
+  ],
+  "contact_info": {
+    "website": "https://www.rasa.co/",
+    "phone": "Not available",
+    "email": "Not available"
+  }
+}

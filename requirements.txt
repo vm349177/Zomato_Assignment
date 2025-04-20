@@ -1,0 +1,21 @@
+# Web scraping
+requests
+beautifulsoup4
+
+# LangChain core
+langchain
+openai
+tiktoken
+
+# Vector stores (you can use either)
+faiss-cpu
+chromadb
+
+# Document loaders and parsers
+unstructured
+pypdf
+python-docx
+
+# (Optional) For local LLMs or Hugging Face models
+transformers
+accelerate
