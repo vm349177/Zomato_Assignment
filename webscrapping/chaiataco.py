@@ -28,11 +28,11 @@ def scrape():
                 item_tags = driver.find_element(By.XPATH, '/html/body/div[2]/main/section[2]/div/div/section[1]/div[2]/div/div['+str(k+1)+']/section['+str(i+1)+']/ul/li['+str(j+1)+']/p[2]/small').text
                 tags = item_tags.split(', ')
                 products_ct.append({
-                    'company name': company_name,
-                    'company location': company_location,
+                    'restaurant': company_name,
+                    'address': company_location,
                     'company outlet': company_outlet,
                     'category': category_name,
-                    'food items': item_name,
+                    'item_name': item_name,
                     'tags': tags
                 })
 

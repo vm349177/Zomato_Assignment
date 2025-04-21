@@ -35,11 +35,11 @@ def scrape():
                 for tag in tag_group.split(','):
                     all_tags.add(tag.strip())
             products_sz.append({
-                'company name': company_name,
-                'company location': company_location,
+                'restaurat': company_name,
+                'address': company_location,
                 'company outlet': company_outlet,
                 'category': category_name,
-                'food items': item_name,
+                'item_name': item_name,
                 'tags': tags
             })
 

@@ -50,11 +50,11 @@ def scrape():
             except Exception as e:
                 pass
             products_cs.append({
-                'company name': company_name,
-                'company location': company_location,
+                'restaurant': company_name,
+                'location': company_location,
                 'available on': company_outlet,
                 'category': category_name,
-                'food item': product_name+" "+product_with,
+                'item_name': product_name+" "+product_with,
                 'spice level': spice_level,
                 'tags': tags
             })
