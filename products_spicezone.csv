@@ -1,4 +1,4 @@
-,company name,company location,company outlet,category,food items,tags
+,restaurant,address,company outlet,category,item_name,tags
 0,Spice Zone,"600 W 19th St, Cheyenne, WY 82001, United States",Dining,Appetizers,Papadum,"['V,GF']"
 1,Spice Zone,"600 W 19th St, Cheyenne, WY 82001, United States",Dining,Appetizers,Pakora,['GF']
 2,Spice Zone,"600 W 19th St, Cheyenne, WY 82001, United States",Dining,Appetizers,Veggie Samosa,['V']

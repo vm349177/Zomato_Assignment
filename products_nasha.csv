@@ -1,4 +1,4 @@
-,company name,company location,available on,category,food item,tags,price
+,restaurant,address,available on,category,item,tags,price
 0,Nasha,"1614 E 7th St, Austin, TX 78702, USA","Pickup, Delivery",Appetizers,ROASTED CHIPS AND SALSA,"['GF', 'V']",['$4.00']
 1,Nasha,"1614 E 7th St, Austin, TX 78702, USA","Pickup, Delivery",Appetizers,TIKKA CON QUESO,['N'],['$7.50']
 2,Nasha,"1614 E 7th St, Austin, TX 78702, USA","Pickup, Delivery",Appetizers,VEG PUFF SAMOSAS,['V'],['$7.00']

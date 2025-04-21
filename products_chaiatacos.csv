@@ -1,4 +1,4 @@
-,company name,company location,company outlet,category,food items,tags
+,restaurant,address,company outlet,category,item_name,tags
 0,Chaia Tacos,"['3207 Grace Street, NW, Washington, DC 20007', '615 I St NW, Washington, DC 20001']","['Dining', 'Delivery', 'Pickup']",Tacos,CREAMY KALE & POTATO,"['mild', 'corn', 'dairy', 'gluten free', 'vegetarian']"
 1,Chaia Tacos,"['3207 Grace Street, NW, Washington, DC 20007', '615 I St NW, Washington, DC 20001']","['Dining', 'Delivery', 'Pickup']",Tacos,BRAISED MUSHROOM,"['mild', 'corn', 'gluten free', 'vegetarian', 'vegan option']"
 2,Chaia Tacos,"['3207 Grace Street, NW, Washington, DC 20007', '615 I St NW, Washington, DC 20001']","['Dining', 'Delivery', 'Pickup']",Tacos,CHIPOTLE SWEET POTATO HASH,"['mild', 'corn', 'gluten free', 'vegetarian', 'vegan option']"

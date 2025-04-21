@@ -38,4 +38,4 @@ def reformat_to_standard_csv(input_csv):
 
     print(f"✅ Reformatted CSV saved as: {output_name}")
 
-reformat_to_standard_csv("products_nasha.csv")
+reformat_to_standard_csv("products_chaiatacos.csv")

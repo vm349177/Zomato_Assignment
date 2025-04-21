@@ -1,4 +1,4 @@
-,company name,company location,available on,category,food item,spice level,tags
+,restaurant,address,available on,category,item_name,spice level,tags
 0,Cafe Spice,"677 Little Britain Road, New Windsor, NY",Amazon Fresh,Indian,BUTTER PANEER with Basmati Rice,Medium,"['Gluten-free', 'Vegetarian']"
 1,Cafe Spice,"677 Little Britain Road, New Windsor, NY",Amazon Fresh,Indian,CHICKEN CASHEW KORMA with Basmati Rice,Mild,['Gluten-free']
 2,Cafe Spice,"677 Little Britain Road, New Windsor, NY",Amazon Fresh,Indian,CAULIFLOWER & POTATO CURRY with Saffron Rice,Medium,"['Dairy-free', 'Gluten-free', 'Vegetarian']"
