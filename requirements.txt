@@ -1,21 +1,16 @@
 # Web scraping
 requests
 beautifulsoup4
+selenium
 
-# LangChain core
+# RAG
+sqlalchemy
+sqlite3
 langchain
-openai
-tiktoken
-
-# Vector stores (you can use either)
+langchain-community
 faiss-cpu
-chromadb
-
-# Document loaders and parsers
-unstructured
-pypdf
-python-docx
-
-# (Optional) For local LLMs or Hugging Face models
 transformers
-accelerate
+sentence-transformers
+torch
+huggingface-hub
+gradio
