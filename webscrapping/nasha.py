@@ -49,11 +49,11 @@ def scrape():
                 dish_name = item_name.strip()
 
             products_nasha.append({
-                'company name': company_name,
-                'company location': company_location,
+                'restaurant': company_name,
+                'address': company_location,
                 'available on': company_outlet,
                 'category': category_name,
-                'food item': dish_name,
+                'item_name': dish_name,
                 'tags': tags,
                 'price': item_price
             })
