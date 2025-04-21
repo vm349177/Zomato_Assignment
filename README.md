@@ -57,11 +57,11 @@ Both retrieval approaches pass retrieved information to a powerful generative mo
 |:---|:---|
 | Web Scraping | BeautifulSoup, Requests |
 | Relational DB Management | sqlite3, SQLAlchemy, LangChain SQLChain |
-| Vector Embedding | Hugging Face InstructEmbeddings |
+| Vector Embedding | MiniLM |
 | Vector DB | FAISS |
 | Retrieval and RAG Framework | LangChain |
 | Language Model | google/flan-t5-large (via Hugging Face Transformers) |
-| UI (Future Work) | Streamlit or Gradio |
+| UI (Future Work) | Gradio |
 
 ---
 
