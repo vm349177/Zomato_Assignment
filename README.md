@@ -61,7 +61,7 @@ Both retrieval approaches pass retrieved information to a powerful generative mo
 | Vector DB | FAISS |
 | Retrieval and RAG Framework | LangChain |
 | Language Model | google/flan-t5-large (via Hugging Face Transformers) |
-| UI (Future Work) | Gradio |
+| UI | Gradio |
 
 ---
 
